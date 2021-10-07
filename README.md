@@ -1,11 +1,22 @@
 ### Hi there, I'm Allen 👋
 
 - ✈️ Former Avionics Technician
+- 👨‍💻 Aspiring Software Engineer
 - 📜 Degree in Computer Engineering Technology at CalState Long Beach
 - 🎓 General Assembly Bootcamp Graduate
 - 📸 I like to take pictures and currently working on my photography portfolio
 - 🗺️ Trying to travel or go on a road whenever I can, collecting national parks pins are my thing.
+- 💡 Trying to learn everything I can!
+
+### Let's Connect
+<br>
+<a href="https://www.linkedin.com/in/allen-gee/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="mailto:allengonzales018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
+### Github Stats
+[![geearen's github stats](https://github-readme-stats.vercel.app/api?username=geearen&show_icons=true&theme=white)]
 <!--
+
 **geearen/geearen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
