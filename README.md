@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Allen 👋
 
+- ✈️ Former Avionics Technician
+- 📜 Degree in Computer Engineering Technology at CalState Long Beach
+- 🎓 General Assembly Bootcamp Graduate
+- 📸 I like to take pictures and currently working on my photography portfolio
+- 🗺️ Trying to travel or go on a road whenever I can, collecting national parks pins are my thing.
 <!--
 **geearen/geearen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
