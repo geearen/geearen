@@ -8,12 +8,14 @@
 - 🗺️ Trying to travel or go on a road whenever I can, collecting national parks pins are my thing.
 - 💡 Trying to learn everything I can!
 
-### Let's Connect
+## Let's Connect
 <br>
 <a href="https://www.linkedin.com/in/allen-gee/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="mailto:allengonzales018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="https://www.instagram.com/geearen.film/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+<br>
 
-### Github Stats
+## Github Stats
 [![geearen's github stats](https://github-readme-stats.vercel.app/api?username=geearen&show_icons=true&theme=dracula)](https://github.com/geearen/github-readme-stats)
 
 
