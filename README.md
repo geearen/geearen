@@ -5,7 +5,7 @@
 - 📜 Degree in Computer Engineering Technology at CalState Long Beach
 - 🎓 General Assembly Bootcamp Graduate
 - 📸 I like to take pictures and currently working on my photography portfolio
-- 🗺️ Trying to travel or go on a road whenever I can, collecting national parks pins are my thing.
+- 🗺️ Trying to travel or go on a road trip whenever I can, collecting national parks pins are my thing.
 - 💡 Trying to learn everything I can!
 
 ## Let's Connect
