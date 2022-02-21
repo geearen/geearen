@@ -1,6 +1,7 @@
 ### Hi there, I'm Allen 👋
 
 - ✈️ Former Avionics Technician
+- ⚙️ Associate Software Developer at Rightpoint (previously Something Digital) 
 - 👨‍💻 Aspiring Software Engineer
 - 📜 Degree in Computer Engineering Technology at CalState Long Beach
 - 🎓 General Assembly Bootcamp Graduate
