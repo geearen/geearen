@@ -6,7 +6,7 @@
 - 📜 Degree in Computer Engineering Technology at CalState Long Beach
 - 🎓 General Assembly Bootcamp Graduate
 - 📸 I like to take pictures and currently working on my photography portfolio
-- 🗺️ Trying to travel or go on a road trip whenever I can, collecting national parks pins are my thing.
+- 🗺️ Trying to travel or go on a road trip whenever I can, collecting national park pins is my thing.
 - 💡 Trying to learn everything I can!
 
 ## Let's Connect
@@ -14,6 +14,7 @@
 <a href="https://www.linkedin.com/in/allen-gee/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="mailto:allengonzales018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 <a href="https://www.instagram.com/geearen.film/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+<a href="https://geearen.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <br>
 
 ## Github Stats
