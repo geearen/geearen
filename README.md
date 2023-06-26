@@ -14,8 +14,35 @@
 <a href="https://www.linkedin.com/in/allen-gee/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="mailto:allengonzales018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 <a href="https://www.instagram.com/geearen.film/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-<a href="https://geearen.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://geearen.com/"><img src="https://img.shields.io/badge/Web-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <br>
+
+## Tech Stacks
+
+<div align='left'> 
+  <h3>Front End</h3>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript"/><img height="32" width="32" src="https://cdn.simpleicons.org/html5"/><img height="32" width="32" src="https://cdn.simpleicons.org/css3"/><img height="32" width="32" src="https://cdn.simpleicons.org/react"/><img height="32" width="32" src="https://cdn.simpleicons.org/redux"/><img height="32" width="32" src="https://cdn.simpleicons.org/typescript"/><img height="32" width="32" src="https://cdn.simpleicons.org/sass"/><img height="32" width="32" src="https://cdn.simpleicons.org/jquery"/>
+</div>
+<div align='left'>
+  <h3>Back End</h3>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/node.js"/><img height="32" width="32" src="https://cdn.simpleicons.org/express"/><img height="32" width="32" src="https://cdn.simpleicons.org/django"/><img height="32" width="32" src="https://cdn.simpleicons.org/python"/><img height="32" width="32" src="https://cdn.simpleicons.org/mongoose"/><img height="32" width="32" src="https://cdn.simpleicons.org/mongodb"/><img height="32" width="32" src="https://cdn.simpleicons.org/postgresql"/>
+</div>
+<div>
+  <h3>Testing</h3>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/cypress"/><img height="32" width="32" src="https://cdn.simpleicons.org/jest"/><img height="32" width="32" src="https://cdn.simpleicons.org/testinglibrary"/>
+</div>
+<div>
+  <h3>ToolBox</h3>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/postman"/><img height="32" width="32" src="https://cdn.simpleicons.org/git"/><img height="32" width="32" src="https://cdn.simpleicons.org/github"/><img height="32" width="32" src="https://cdn.simpleicons.org/hyper"/><img height="32" width="32" src="https://cdn.simpleicons.org/jira"/><img height="32" width="32" src="https://cdn.simpleicons.org/confluence"/><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode"/><img height="32" width="32" src="https://cdn.simpleicons.org/jetbrains"/><img height="32" width="32" src="https://cdn.simpleicons.org/azuredevops"/><img height="32" width="32" src="https://cdn.simpleicons.org/invision"/><img height="32" width="32" src="https://cdn.simpleicons.org/bigcommerce"/><img height="32" width="32" src="https://cdn.simpleicons.org/atlassian"/><img height="32" width="32" src="https://cdn.simpleicons.org/webstorm"/><img height="32" width="32" src="https://cdn.simpleicons.org/npm"/><img height="32" width="32" src="https://cdn.simpleicons.org/yarn"/>
+</div>
+<div>
+  <h3>Familiar</h3>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png"/><img height="32" width="32" src="https://cdn.simpleicons.org/php"/><img height="32" width="32" src="https://cdn.simpleicons.org/azurefunctions"/><img height="32" width="32" src="https://cdn.simpleicons.org/auth0"/><img height="32" width="32" src="https://cdn.simpleicons.org/jsonwebtokens"/><img height="32" width="32" src="https://cdn.simpleicons.org/vim"/>
+</div>
+<div>
+  <h3>Other</h3>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop"/><img height="32" width="32" src="https://cdn.simpleicons.org/adobelightroom"/><img height="32" width="32" src="https://cdn.simpleicons.org/adobelightroomclassic"/><img height="32" width="32" src="https://cdn.simpleicons.org/adobeillustrator"/><img height="32" width="32" src="https://cdn.simpleicons.org/adobeaftereffects"/><img height="32" width="32" src="https://cdn.simpleicons.org/adobepremierepro"/><img height="32" width="32" src="https://cdn.simpleicons.org/canva"/><img height="32" width="32" src="https://cdn.simpleicons.org/autodesk"/><img height="32" width="32" src="https://cdn.simpleicons.org/vmware"/><img height="32" width="32" src="https://cdn.simpleicons.org/labview"/>
+</div>
 
 ## Github Stats
 [![geearen's github stats](https://github-readme-stats.vercel.app/api?username=geearen&show_icons=true&theme=dracula)](https://github.com/geearen/github-readme-stats)
